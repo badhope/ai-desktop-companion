@@ -1,0 +1,13 @@
+{
+  "startup_mode": "enhanced_gui",
+  "default_character": "小星",
+  "enable_animations": true,
+  "performance_level": "high",
+  "features_enabled": {
+    "chat": true,
+    "games": true,
+    "music": true,
+    "system_tools": true,
+    "creative_tools": true
+  }
+}
