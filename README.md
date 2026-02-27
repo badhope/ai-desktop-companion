@@ -1,5 +1,5 @@
 # AI Desktop Companion
-你的桌面AI助手，目前还处于「毛坯房」阶段——功能不完善、细节待打磨，但**极度欢迎所有感兴趣的小伙伴一起参与改造**，让这个项目从“能用”变成“好用”！
+这个桌面AI助手，目前还处于「毛坯房」阶段——功能不完善、细节待打磨，但**极度欢迎所有感兴趣的小伙伴一起参与改造**，让这个项目从“能用”变成“好用”！
 
 [![Stars](https://img.shields.io/github/stars/badhope/ai-desktop-companion?style=social)](https://github.com/badhope/ai-desktop-companion/stargazers)
 [![Forks](https://img.shields.io/github/forks/badhope/ai-desktop-companion?style=social)](https://github.com/badhope/ai-desktop-companion/network/members)
